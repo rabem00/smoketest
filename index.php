@@ -1,3 +1,5 @@
 <?php
 
-echo "Welcome to the OpenShift 3 Smoke Test Application";
+echo "Welcome to the OpenShift 3 Smoke Test Application from ".gethostname()
+
+?>
